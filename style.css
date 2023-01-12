@@ -1,0 +1,59 @@
+.img1{
+    height: 184px;
+    width: 158px;
+}
+
+/* .A1{
+    display: flex;
+  ;
+} */
+.H6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+
+}
+.M2{
+    display: inline-flex;
+} 
+#header1{
+ 
+    display: flex;
+}
+.m3{
+    color: rgb(28, 255, 54);
+}
+h5{
+    color: grey;
+}
+.j{
+    padding-left: 977px;
+
+ }
+ 
+.svg-icon {
+    width: 1em;
+    height: 1em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #4691f6;
+  }
+  
+  .svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+  }
+  .things{
+    display: flex;
+  }
+  .article{
+    display: flex;
+  }
+  .AZ{
+    color: red;
+  }
+  .option{
+    padding-left: 165px
+  }
